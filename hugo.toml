@@ -4,6 +4,9 @@ title = "Ó hAoḋa"
 theme = "aevum"
 copyright = "Copyright © 2024 Aindréas Ó hAodha. Content licensed under CC BY-NC-SA 4.0. Code licensed under GPLv3."
 
+[taxonomies]
+    tag = "tags"
+
 [markup]
     [markup.tableOfContents]
         ordered = true
