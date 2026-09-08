@@ -5,7 +5,7 @@ title = 'About Me'
 ## What is My Actual Name?
 
 The home page of this website introduces me as "<span class="gaelic">Aindréas Ó hAoḋa</span> (Aindréas Ó hAodha / Andrew Hayes)", which I imagine could cause some confusion, especially for non-Irish people.
-If you were to ask "Well, what does it say on your birth certificate?", you'd likely only be further confused, as the name on my birth certificate[^1] is not any of those names and is, in fact, <span class="nihongo">ヘイズ、アンデュ マイカル</span> (_Heizu, Andyu Maikaru_).
+If you were to ask "Well, what does it say on your birth certificate?", you'd likely only be further confused, as the name on my birth certificate[^1] is not any of those names and is, in fact, <span class="nihongo"><ruby>ヘイズ、アンデュ マイカル<rt>Heizu, Andyu Maikaru</rt></ruby></span>.
 In general, the confusion surrounding my name can be put down to the fact that I'm an Irishman, and thus legally entitled to use both the anglicised and gaelicised form of my name, and that I was born in Japan, so my name had to be transcribed into Japanese for the documentation surrounding my birth.
 
 - In English, my name is **Andrew Hayes**, and this is how most people know me, and what it says on the majority of my official documents.
@@ -17,8 +17,8 @@ In general, the confusion surrounding my name can be put down to the fact that I
   - A non-Irish reader may also be confused by the letters used to write <span class="gaelic">Aindréas Ó hAoḋa</span>:
     this is just how the string "Aindréas Ó hAoḋa" is written in the traditional Gaelic typeface (<span class="gaelic">Cló Gaelaċ</span>) --- the _R_ and the _S_ are particularly confusing when one sees them for the first time!
   - When I was younger, I also briefly went by **Aindriú Ó hAodha** and used the alternative ~mis~spelling **Andreas**.
-- My official documents from the brief, early period of my life spent in Japan list my name as **<span class="nihongo">ヘイズ、アンデュ マイカル</span>** (_Heizu, Andyu Maikaru_), which is a somewhat questionable attempt at rendering "Andrew Michael Hayes" in Japanese, written by a doctor who couldn't speak any English and is therefore, in his defense, quite a decent attempt.
-  - When I have cause to write my name in Japanese myself, typically either when I was actively studying the language or on forms when I returned to visit, I usually write **<span class="nihongo">ヘイズ・アンドリュー</span>** (_Heizu Andoryu_), which is a more standard way of transliterating the name "Andrew" into Japanese.
+- My official documents from the brief, early period of my life spent in Japan list my name as **<span class="nihongo"><ruby>ヘイズ、アンデュ マイカル<rt>Heizu, Andyu Maikaru</rt></ruby></span>**, which is a somewhat questionable attempt at rendering "Andrew Michael Hayes" in Japanese, written by a doctor who couldn't speak any English and is therefore, in his defense, quite a decent attempt.
+  - When I have cause to write my name in Japanese myself, typically either when I was actively studying the language or on forms when I returned to visit, I usually write **<span class="nihongo"><ruby>ヘイズ・アンドリュー<rt>Heizu Andoryu</rt></ruby></span>**, which is a more standard way of transliterating the name "Andrew" into Japanese.
 
 ## Languages I Speak
 
@@ -44,4 +44,4 @@ There's also the unfortunate effect of this map defining countries only as those
 
 {{< globe >}}
 
-[^1]: Technically speaking, I don't even have a birth certificate, but a <span class="nihongo">出生届受理証明書</span> (Certificate of Acceptance of Birth Registration).
+[^1]: Technically speaking, I don't even have a birth certificate, but a <span class="nihongo"><ruby>出生届受理証明書<rt>Shusshō Todoke Juri Shōmeisho</rt></ruby></span> (Certificate of Acceptance of Birth Registration).
