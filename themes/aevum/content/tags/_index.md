@@ -32,6 +32,11 @@ async function drawChart() {
         .force("x", d3.forceX())
         .force("y", d3.forceY());
 
+    // d3.forceSimulation() assigns each node's starting x/y deterministically
+    // (a golden-angle spiral) before any ticking happens, so snapshotting it
+    // here lets the live animation below replay from the same start every time.
+    const initialPositions = nodes.map(d => ({ x: d.x, y: d.y }));
+
     const svg = d3.create("svg")
         .attr("width", width)
         .attr("height", height)
@@ -129,15 +134,28 @@ async function drawChart() {
 
     // Run the simulation to completion up front (300 iterations mirrors
     // d3-force's own default alphaDecay/alphaMin schedule) before yielding
-    // to the browser for the first paint, so the graph appears already laid
-    // out and fitted to the viewport instead of animating a visible
-    // settle-then-jump.
+    // to the browser for the first paint, so the camera fit below is sized
+    // to the real settled layout instead of the still-scattered start.
     simulation.stop();
     simulation.tick(300);
     ticked();
     fitToView();
 
+    // Now rewind the nodes to their starting positions and let the
+    // simulation run live from there. The camera transform we just computed
+    // stays fixed throughout, since the physics is deterministic given the
+    // same start state — so the graph visibly settles into place without
+    // the view ever jumping or re-fitting.
+    nodes.forEach((d, i) => {
+        d.x = initialPositions[i].x;
+        d.y = initialPositions[i].y;
+        d.vx = 0;
+        d.vy = 0;
+    });
+    ticked();
+
     simulation.on("tick", ticked);
+    simulation.alpha(1).restart();
 
     function dragstarted(event) {
         if (!event.active) simulation.alphaTarget(0.3).restart();
