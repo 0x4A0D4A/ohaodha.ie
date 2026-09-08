@@ -246,6 +246,21 @@ ol ol {
     font-size: 0.9em;
 }
 
+.nihongo rt {
+    font-family: EB Garamond, Serif;
+    font-style: normal;
+    font-size: 0;
+    line-height: 0;
+    opacity: 0;
+    transition: font-size 0.15s ease, line-height 0.15s ease, opacity 0.15s ease;
+}
+
+.nihongo:hover rt {
+    font-size: 0.5em;
+    line-height: normal;
+    opacity: 1;
+}
+
 sup {
     font-size: 0.7em;
     vertical-align: super;
