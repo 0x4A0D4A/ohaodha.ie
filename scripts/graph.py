@@ -87,7 +87,7 @@ def main():
     blog_posts = list_blog_posts(blog_directory)
 
     affiliation_network = build_affiliation_network(blog_posts, blog_directory)
-    graph_data = nx.node_link_data(affiliation_network)
+    graph_data = nx.node_link_data(affiliation_network, edges="edges")
 
     with open("./public/blog/graph.json", "w") as f:
         json.dump(graph_data, f)
