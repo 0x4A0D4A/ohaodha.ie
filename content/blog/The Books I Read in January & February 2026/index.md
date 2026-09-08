@@ -116,7 +116,7 @@ The book shows the classic struggle of an author between a love of words and a d
 Zorba is the kind of man that has no appreciation for literature, and is rather the kind of man about whom literary types write, but cannot become, separated from reality by their love of the abstraction of words.
 Zorba is the picture of Nietzschean vitality, and the comparison between him and the narrator is that of Nietzsche's Dionysian and Apollonian.
 
-In a way, I find the book reminiscent of the views expressed by <span class="nihongo">三島 由紀夫</span> (*Mishima Yukio*) in his essay *Sun and Steel*, in which the author compares his detached, childhood love of words with his newfound practical love of reality itself, unencumbered by abstraction and description.
+In a way, I find the book reminiscent of the views expressed by <span class="nihongo"><ruby>三島 由紀夫<rt>Mishima Yukio</rt></ruby></span> in his essay *Sun and Steel*, in which the author compares his detached, childhood love of words with his newfound practical love of reality itself, unencumbered by abstraction and description.
 Indeed, Mishima's anxiety about having missed out on his opportunity to perform his patriotic duty[^4] in the military during the war is echoed[^5] in the contrast between the narrator's friend Stavridakis who has gone off to fight the Bolsheviks and the narrator's staying-put in Greece.
 This separation between the writer and reality can be seen over and over in a large number of books beyond *Sun and Steel*, like in *Nausea* between the un-reality of Roquentin's life and the richness of the historical life of the Marquis de Rollebon --- just to name those which are at the top of my mind.
 
