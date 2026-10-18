@@ -4,14 +4,15 @@ date = 2026-10-18T16:00:36+01:00
 tags = ["Language", "Linguistics", "Hiberno-English", "Ireland", "Etymology"]
 +++
 
-**Doublets** are pairs of words in the same language which, despite often having different meanings, are derived from the same root (or *etymon*)[^1].
+Doublets are pairs of words in the same language which, despite often having different meanings, are derived from the same root (or *etymon*)[^1].
 As you might imagine, they are rather common in any given language, and form an indispensable component of such a language's vocabulary.
 Particularly fascinating are doublets for which the divergence occurred long ago:
 for example, we can approximately date the invention of the wheel by tracing the English-language doublets *wheel* (of Germanic origin), *cycle* (from Latin via Greek), and *chakra* (from Sanskrit) to the Proto-Indo-European root *\*kʷékʷlo-*[^2] --- which tells us that the wheels must have been known to the society of that period.
 
 Similarly interesting, however, are the doublets which diverged relatively recently:
 for example, in Modern English, *clew* and *clue* are two distinct words with two distinct meanings, but one needn't go back far to discover when the words were one and the same.
-An example of this across which I happened only this can be found in Edgar Allan Poe's *The Unparalleled Adventures of One Hans Pfaall* (published 1835) not even the burgomaster Mynheer Superbus Von Underduk --- had the slightest clew by which to unravel the mystery
+An example of this across which I happened only this can be found in Edgar Allan Poe's *The Unparalleled Adventures of One Hans Pfaall* (published 1835)
+> ...not even the burgomaster Mynheer Superbus Von Underduk --- had the slightest clew by which to unravel the mystery
 
 The meaning of *clew* as a ball of thread has existed in English since the 12<sup>th</sup> century[^3], and came to have the sense of "a guide" or a "piece of useful information" under the influence of the Greek myth of Theseus in the Labyrinth, which he navigated by unwinding a spool of thread.
 There is something particularly interesting --- I think --- in observing such recent divergences;
