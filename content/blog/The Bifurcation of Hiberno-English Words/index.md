@@ -1,7 +1,7 @@
 +++
 title = 'The Bifurcation of Hiberno-English Words'
 date = 2026-10-18T16:00:36+01:00
-tags = ["Language", "Linguistics", "Hiberno-English", "Ireland, "Etymology]
+tags = ["Language", "Linguistics", "Hiberno-English", "Ireland", "Etymology"]
 +++
 
 **Doublets** are pairs of words in the same language which, despite often having different meanings, are derived from the same root (or *etymon*)[^1].
