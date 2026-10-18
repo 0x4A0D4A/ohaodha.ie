@@ -1,7 +1,7 @@
 +++
 title = 'The Bifurcation of Hiberno-English Words'
 date = 2026-10-18T16:00:36+01:00
-draft = false
+tags = ["Language", "Linguistics", "Hiberno-English", "Ireland, "Etymology]
 +++
 
 **Doublets** are pairs of words in the same language which, despite often having different meanings, are derived from the same root (or *etymon*)[^1].
@@ -38,8 +38,12 @@ Therefore, unlike *maen* and *mean*, *bauld* would be more commonly understood a
 I have, however, witnessed those who ordinarily use the standard pronunciation using the Hiberno pronunciation to emphasise the Hiberno meaning, and even spelling the word as *bauld* over text.
 Further examples can be seen with *queer* (as in LGBT) and *quare* (as in *unusual*, a sense which is becoming increasingly archaic in standard English) or *old* (as in *agèd*) and *auld* (as in "any old thing").
 
+A recent, yet now completed, example of such bifurcation can be seen in the origin of the word *craic*:
+originally the English word *crack* as in *wisecrack*, meaning lively conversation or gossip, this meaning was largely forgotten in standard English and preserved in Hiberno-English.
+Borrowed then into the Irish langauge as *craic* (pronounced identically), the English origins of the term were largely forgotten, and it was re-borrowed into English with the Gaelic spelling, leaving us with two words: the standard *crack* and the dialectal *craic*.
+ 
 I'm sure there are many more such examples which I have neglected to mention here, and if anyone reading this can think of any themselves, I would encourage them to let me know.
-
+It's quite interesting to be able to witness the evolution of language and the origins of words in real-time, and there's something particularly intriguing about this kind of doublet-forming, in which both senses form in the same language, under regional influences.
 
 
 [^1]: https://www.merriam-webster.com/grammar/doublets-tulip-turban-carton-cartoon
