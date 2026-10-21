@@ -11,7 +11,7 @@ for example, we can approximately date the invention of the wheel by tracing the
 
 Similarly interesting, however, are the doublets which diverged relatively recently:
 for example, in Modern English, *clew* and *clue* are two distinct words with two distinct meanings, but one needn't go back far to discover when the words were one and the same.
-An example of this across which I happened only this can be found in Edgar Allan Poe's *The Unparalleled Adventures of One Hans Pfaall* (published 1835)
+An example of this across which I happened only this morning can be found in Edgar Allan Poe's *The Unparalleled Adventures of One Hans Pfaall* (published 1835)
 > ...not even the burgomaster Mynheer Superbus Von Underduk --- had the slightest clew by which to unravel the mystery
 
 The meaning of *clew* as a ball of thread has existed in English since the 12<sup>th</sup> century[^3], and came to have the sense of "a guide" or a "piece of useful information" under the influence of the Greek myth of Theseus in the Labyrinth, which he navigated by unwinding a spool of thread.
