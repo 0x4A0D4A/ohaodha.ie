@@ -11,7 +11,7 @@ for example, we can approximately date the invention of the wheel by tracing the
 
 Similarly interesting, however, are the doublets which diverged relatively recently:
 for example, in Modern English, *clew* and *clue* are two distinct words with two distinct meanings, but one needn't go back far to discover when the words were one and the same.
-An example of this across which I happened only this morning can be found in Edgar Allan Poe's *The Unparalleled Adventures of One Hans Pfaall* (published 1835)
+An example of this across which I happened only this morning can be found in Edgar Allan Poe's *The Unparalleled Adventures of One Hans Pfaall* (published 1835):
 > ...not even the burgomaster Mynheer Superbus Von Underduk --- had the slightest clew by which to unravel the mystery
 
 The meaning of *clew* as a ball of thread has existed in English since the 12<sup>th</sup> century[^3], and came to have the sense of "a guide" or a "piece of useful information" under the influence of the Greek myth of Theseus in the Labyrinth, which he navigated by unwinding a spool of thread.
@@ -19,7 +19,7 @@ There is something particularly interesting --- I think --- in observing such re
 and, I am of the belief that such divergences can be witnessed before our very eyes (probably in a number of circumstances, but notably...) in Hiberno-English.
 
 In Hiberno-English, as in any dialect, there are a number of words which are of standard English origin, but contain in Hiberno-English meanings not found in standard English.
-For example, the word *grand* has the standard English meanings of *large*, or *fine* (as in "of good quality"), or something small or thin, or (in noun form) a thousand, but also the unique meaning of fine as in "acceptable".
+For example, the word *grand* has the standard English meanings of *large*, or *fine* (as in "of good quality"), or something small or thin, or (in noun form) a thousand, but also the unique meaning of *fine* as in "acceptable".
 
 As Hiberno-English accents become more standardised, or perhaps anglicised, under global media influence of American and British English, certain regional pronunciations of standard English words are becoming increasingly uncommon;
 for example, one rarely hears *chimley* instead of *chimney* or *crips* instead of *crisps* anymore, except from the elderly.
